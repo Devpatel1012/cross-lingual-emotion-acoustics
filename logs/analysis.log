@@ -1,0 +1,28 @@
+594 clips, 11 languages, 59 features (33 interpretable)
+A/B: emotion profiles and cross-language correlation
+  same-emotion mean r = 0.297 vs different-emotion -0.136 (p=6.99e-33)
+C: per-feature consistency
+D: variance decomposition
+E: leave-one-language-out classification
+  LOLO[interpretable/logreg] acc=0.576 f1=0.573
+  LOLO[interpretable/svm_rbf] acc=0.577 f1=0.575
+  LOLO[interpretable/rf] acc=0.623 f1=0.621
+  LOLO[all_incl_mfcc/logreg] acc=0.588 f1=0.589
+  LOLO[all_incl_mfcc/svm_rbf] acc=0.599 f1=0.598
+  LOLO[all_incl_mfcc/rf] acc=0.628 f1=0.625
+  LOLO[gain_invariant/logreg] acc=0.571 f1=0.569
+  LOLO[gain_invariant/svm_rbf] acc=0.591 f1=0.590
+  LOLO[gain_invariant/rf] acc=0.616 f1=0.615
+F/G: geometry and confound checks
+
+wrote /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/results/summary.json
+  wrote fig1_emotion_profiles.png
+  wrote fig2_cross_language_correlation.png
+  wrote fig3_same_vs_different_emotion.png
+  wrote fig4_feature_consistency.png
+  wrote fig5_key_features_by_language.png
+  wrote fig6_leave_one_language_out.png
+  wrote fig7_confusion_matrix.png
+  wrote fig8_pca_embedding.png
+  wrote fig9_variance_decomposition.png
+figures in /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/figures

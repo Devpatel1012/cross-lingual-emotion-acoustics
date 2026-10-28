@@ -1,0 +1,91 @@
+lang,emotion,speaker,utt,file
+ru,sad,45,45_happiness_sadness_s_100,ru/sad/45_254_45happinesssadnesss100.wav
+ru,sad,50,50_enthusiasm_sadness_s_050,ru/sad/50_258_50enthusiasmsadnesss050.wav
+ru,sad,45,45_happiness_sadness_s_120,ru/sad/45_264_45happinesssadnesss120.wav
+ru,sad,47,47_enthusiasm_sadness_s_100,ru/sad/47_267_47enthusiasmsadnesss100.wav
+ru,sad,49,49_sadness_happiness_s_010,ru/sad/49_270_49sadnesshappinesss010.wav
+ru,sad,50,50_enthusiasm_sadness_s_120,ru/sad/50_285_50enthusiasmsadnesss120.wav
+ru,sad,45,45_happiness_sadness_s_190,ru/sad/45_289_45happinesssadnesss190.wav
+ru,sad,47,47_enthusiasm_sadness_s_090,ru/sad/47_295_47enthusiasmsadnesss090.wav
+ru,sad,47,47_enthusiasm_sadness_s_070,ru/sad/47_298_47enthusiasmsadnesss070.wav
+ru,sad,39,39_sadness_anger_s_040,ru/sad/39_911_39sadnessangers040.wav
+ru,sad,45,45_happiness_sadness_s_170,ru/sad/45_925_45happinesssadnesss170.wav
+ru,sad,47,47_enthusiasm_sadness_s_150,ru/sad/47_931_47enthusiasmsadnesss150.wav
+ru,sad,45,45_happiness_sadness_s_020,ru/sad/45_935_45happinesssadnesss020.wav
+ru,sad,24,24_sadness_enthusiasm_s_110,ru/sad/24_938_24sadnessenthusiasms110.wav
+ru,sad,24,24_sadness_enthusiasm_s_080,ru/sad/24_1070_24sadnessenthusiasms080.wav
+ru,sad,39,39_sadness_anger_s_030,ru/sad/39_1073_39sadnessangers030.wav
+ru,sad,39,39_sadness_anger_s_100,ru/sad/39_1074_39sadnessangers100.wav
+ru,sad,08,08_sadness_anger s_100,ru/sad/08_1076_08sadnessangers100.wav
+ru,sad,24,24_sadness_enthusiasm_s_100,ru/sad/24_1089_24sadnessenthusiasms100.wav
+ru,sad,50,50_enthusiasm_sadness_s_040,ru/sad/50_1096_50enthusiasmsadnesss040.wav
+ru,sad,02,02_anger_sadness s_040,ru/sad/02_752_02angersadnesss040.wav
+ru,sad,16,16_sadness_disgust_s_030,ru/sad/16_755_16sadnessdisgusts030.wav
+ru,sad,33,33_sadness_disgust_s_060,ru/sad/33_763_33sadnessdisgusts060.wav
+ru,sad,08,08_sadness_anger s_030,ru/sad/08_768_08sadnessangers030.wav
+ru,sad,45,45_happiness_sadness_s_110,ru/sad/45_777_45happinesssadnesss110.wav
+ru,sad,08,08_sadness_anger s_020,ru/sad/08_782_08sadnessangers020.wav
+ru,sad,16,16_sadness_disgust_s_040,ru/sad/16_789_16sadnessdisgusts040.wav
+ru,sad,50,50_enthusiasm_sadness_s_070,ru/sad/50_796_50enthusiasmsadnesss070.wav
+ru,sad,45,45_happiness_sadness_s_201,ru/sad/45_358_45happinesssadnesss201.wav
+ru,sad,33,33_sadness_disgust_s_010,ru/sad/33_367_33sadnessdisgusts010.wav
+ru,angry,34,34_anger_fear_a_200,ru/angry/34_257_34angerfeara200.wav
+ru,angry,02,02_anger_sadness a_054,ru/angry/02_260_02angersadnessa054.wav
+ru,angry,34,34_anger_fear_a_120,ru/angry/34_268_34angerfeara120.wav
+ru,angry,14,14_anger_fear_a_130,ru/angry/14_273_14angerfeara130.wav
+ru,angry,10,10_happiness_anger a_020,ru/angry/10_278_10happinessangera020.wav
+ru,angry,19,19_anger_disgust_a_120,ru/angry/19_291_19angerdisgusta120.wav
+ru,angry,22,22_fear_anger_a_130,ru/angry/22_296_22fearangera130.wav
+ru,angry,02,02_anger_sadness a_020,ru/angry/02_299_02angersadnessa020.wav
+ru,angry,02,02_anger_sadness a_012,ru/angry/02_905_02angersadnessa012.wav
+ru,angry,44,44_neutral_anger_a_100,ru/angry/44_906_44neutralangera100.wav
+ru,angry,19,19_anger_disgust_a_020,ru/angry/19_908_19angerdisgusta020.wav
+ru,angry,44,44_neutral_anger_a_140,ru/angry/44_915_44neutralangera140.wav
+ru,angry,01,01_happiness_anger a_020,ru/angry/01_917_01happinessangera020.wav
+ru,angry,22,22_fear_anger_a_060,ru/angry/22_922_22fearangera060.wav
+ru,angry,14,14_anger_fear_a_010,ru/angry/14_928_14angerfeara010.wav
+ru,angry,34,34_anger_fear_a_190,ru/angry/34_941_34angerfeara190.wav
+ru,angry,44,44_neutral_anger_a_130,ru/angry/44_946_44neutralangera130.wav
+ru,angry,42,42_anger_fear_a_160,ru/angry/42_947_42angerfeara160.wav
+ru,angry,11,11_anger_disgust a_100,ru/angry/11_1052_11angerdisgusta100.wav
+ru,angry,10,10_happiness_anger a_030,ru/angry/10_1057_10happinessangera030.wav
+ru,angry,22,22_fear_anger_a_010,ru/angry/22_1061_22fearangera010.wav
+ru,angry,21,21_happiness_anger_a_050,ru/angry/21_1063_21happinessangera050.wav
+ru,angry,39,39_sadness_anger_a_090,ru/angry/39_1078_39sadnessangera090.wav
+ru,angry,10,10_happiness_anger a_070,ru/angry/10_1083_10happinessangera070.wav
+ru,angry,01,01_happiness_anger a_070,ru/angry/01_1091_01happinessangera070.wav
+ru,angry,34,34_anger_fear_a_010,ru/angry/34_1098_34angerfeara010.wav
+ru,angry,10,10_happiness_anger a_082,ru/angry/10_750_10happinessangera082.wav
+ru,angry,39,39_sadness_anger_a_020,ru/angry/39_753_39sadnessangera020.wav
+ru,angry,34,34_anger_fear_a_150,ru/angry/34_760_34angerfeara150.wav
+ru,angry,10,10_happiness_anger a_081,ru/angry/10_765_10happinessangera081.wav
+ru,happy,21,21_happiness_anger_h_070,ru/happy/21_255_21happinessangerh070.wav
+ru,happy,45,45_happiness_sadness_h_150,ru/happy/45_259_45happinesssadnessh150.wav
+ru,happy,30,30_fear_happiness_h_140,ru/happy/30_265_30fearhappinessh140.wav
+ru,happy,06,06_happiness_enthusiasm h_052,ru/happy/06_274_6happinessenthusiasmh052.wav
+ru,happy,18,18_happiness_neutral_h_010,ru/happy/18_277_18happinessneutralh010.wav
+ru,happy,01,01_happiness_anger h_071,ru/happy/01_282_01happinessangerh071.wav
+ru,happy,18,18_happiness_neutral_h_190,ru/happy/18_294_18happinessneutralh190.wav
+ru,happy,36,36_disgust_happiness_h_130,ru/happy/36_909_36disgusthappinessh130.wav
+ru,happy,26,26_enthusiasm_happiness_h_130,ru/happy/26_912_6enthusiasmhappinessh130.wav
+ru,happy,26,26_enthusiasm_happiness_h_100,ru/happy/26_916_6enthusiasmhappinessh100.wav
+ru,happy,30,30_fear_happiness_h_120,ru/happy/30_918_30fearhappinessh120.wav
+ru,happy,45,45_happiness_sadness_h_140,ru/happy/45_919_45happinesssadnessh140.wav
+ru,happy,29,29_happiness_fear_h_010,ru/happy/29_930_29happinessfearh010.wav
+ru,happy,23,23_happiness_neutral_h_161,ru/happy/23_944_23happinessneutralh161.wav
+ru,happy,38,38_happiness_neutral_h_060,ru/happy/38_949_38happinessneutralh060.wav
+ru,happy,38,38_happiness_neutral_h_090,ru/happy/38_1054_38happinessneutralh090.wav
+ru,happy,21,21_happiness_anger_h_112,ru/happy/21_1066_21happinessangerh112.wav
+ru,happy,06,06_happiness_enthusiasm h_010,ru/happy/06_1069_6happinessenthusiasmh010.wav
+ru,happy,38,38_happiness_neutral_h_070,ru/happy/38_1071_38happinessneutralh070.wav
+ru,happy,49,49_sadness_happiness_h_031,ru/happy/49_1092_49sadnesshappinessh031.wav
+ru,happy,21,21_happiness_anger_h_090,ru/happy/21_1095_21happinessangerh090.wav
+ru,happy,45,45_happiness_sadness_h_070,ru/happy/45_751_45happinesssadnessh070.wav
+ru,happy,21,21_happiness_anger_h_140,ru/happy/21_758_21happinessangerh140.wav
+ru,happy,01,01_happiness_anger h_080,ru/happy/01_761_01happinessangerh080.wav
+ru,happy,49,49_sadness_happiness_h_100,ru/happy/49_767_49sadnesshappinessh100.wav
+ru,happy,32,32_happiness_enthusiasm_h_050,ru/happy/32_771_2happinessenthusiasmh050.wav
+ru,happy,49,49_sadness_happiness_h_020,ru/happy/49_772_49sadnesshappinessh020.wav
+ru,happy,18,18_happiness_neutral_h_080,ru/happy/18_773_18happinessneutralh080.wav
+ru,happy,29,29_happiness_fear_h_130,ru/happy/29_794_29happinessfearh130.wav
+ru,happy,45,45_happiness_sadness_h_190,ru/happy/45_797_45happinesssadnessh190.wav

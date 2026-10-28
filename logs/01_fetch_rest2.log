@@ -1,0 +1,42 @@
+[bn] Bangla / SUBESCO (hf_rows)
+  7000 rows, label classes=None
+    offset 1250: sad=10 angry=10 happy=5
+    offset 4850: sad=20 angry=15 happy=10
+    offset 4450: sad=25 angry=20 happy=20
+    offset 800: sad=30 angry=30 happy=25
+    offset 4250: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  bn: sad=30 angry=30 happy=30
+[ja] Japanese / JVNV (hf_rows)
+  1615 rows, label classes=None
+    offset 350: sad=0 angry=0 happy=0
+    offset 1150: sad=0 angry=0 happy=0
+    offset 1250: sad=0 angry=0 happy=0
+    offset 1550: sad=0 angry=0 happy=0
+    offset 200: sad=0 angry=30 happy=0
+    offset 500: sad=30 angry=30 happy=16
+    offset 250: sad=30 angry=30 happy=16
+    offset 750: sad=30 angry=30 happy=16
+    offset 1500: sad=30 angry=30 happy=16
+    offset 0: sad=30 angry=30 happy=16
+    offset 950: sad=30 angry=30 happy=24
+    offset 400: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  ja: sad=30 angry=30 happy=30
+[ur] Urdu / URDU-Dataset (github)
+    angry: 30 of 100
+    happy: 30 of 100
+    sad: 30 of 100
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  ur: sad=30 angry=30 happy=30
+[tr] Turkish / TurEV-DB (github)
+    angry: 30 of 487
+    happy: 30 of 357
+    sad: 30 of 483
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  tr: sad=30 angry=30 happy=30
+done

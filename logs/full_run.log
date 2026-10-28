@@ -1,0 +1,91 @@
+[en] English / RAVDESS: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 18 speaker ids (0 unusable)
+   angry: kept 18 clips from 18 speaker ids (0 unusable)
+   happy: kept 18 clips from 18 speaker ids (0 unusable)
+[de] German / EmoDB: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 1 speaker ids (0 unusable)
+   angry: kept 18 clips from 1 speaker ids (0 unusable)
+   happy: kept 18 clips from 1 speaker ids (0 unusable)
+[el] Greek / AESDD: sad=29, angry=30, happy=30
+   sad: kept 18 clips from 1 speaker ids (0 unusable)
+   angry: kept 18 clips from 1 speaker ids (0 unusable)
+   happy: kept 18 clips from 1 speaker ids (0 unusable)
+[pl] Polish / nEMO: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 6 speaker ids (0 unusable)
+   angry: kept 18 clips from 6 speaker ids (0 unusable)
+   happy: kept 18 clips from 8 speaker ids (0 unusable)
+[ru] Russian / RESD: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 10 speaker ids (0 unusable)
+   angry: kept 18 clips from 11 speaker ids (1 unusable)
+   happy: kept 18 clips from 12 speaker ids (2 unusable)
+[fa] Persian / ShEMO: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 1 speaker ids (0 unusable)
+   angry: kept 18 clips from 1 speaker ids (1 unusable)
+   happy: kept 18 clips from 1 speaker ids (1 unusable)
+[bn] Bangla / SUBESCO: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 4 speaker ids (0 unusable)
+   angry: kept 18 clips from 4 speaker ids (0 unusable)
+   happy: kept 18 clips from 4 speaker ids (0 unusable)
+[ja] Japanese / JVNV: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 1 speaker ids (0 unusable)
+   angry: kept 18 clips from 1 speaker ids (0 unusable)
+   happy: kept 18 clips from 2 speaker ids (0 unusable)
+[zh] Mandarin / CASIA: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 2 speaker ids (0 unusable)
+   angry: kept 18 clips from 2 speaker ids (2 unusable)
+   happy: kept 18 clips from 2 speaker ids (1 unusable)
+[ur] Urdu / URDU-Dataset: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 5 speaker ids (1 unusable)
+   angry: kept 18 clips from 4 speaker ids (0 unusable)
+   happy: kept 18 clips from 13 speaker ids (0 unusable)
+[tr] Turkish / TurEV-DB: sad=30, angry=30, happy=30
+   sad: kept 0 clips from 0 speaker ids (30 unusable)
+   angry: kept 0 clips from 0 speaker ids (30 unusable)
+   happy: kept 1 clips from 1 speaker ids (29 unusable)
+
+manifest: /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/features/manifest.csv  (541 clips, 11 languages)
+emotion  angry  happy   sad
+lang                       
+bn        18.0   18.0  18.0
+de        18.0   18.0  18.0
+el        18.0   18.0  18.0
+en        18.0   18.0  18.0
+fa        18.0   18.0  18.0
+ja        18.0   18.0  18.0
+pl        18.0   18.0  18.0
+ru        18.0   18.0  18.0
+tr         NaN    1.0   NaN
+ur        18.0   18.0  18.0
+zh        18.0   18.0  18.0
+
+total audio: 32.6 min, median clip 2.59 s
+  50/541
+  100/541
+  150/541
+  200/541
+  250/541
+  300/541
+  350/541
+  400/541
+  450/541
+  500/541
+features: /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/features/features.csv  (541, 70)
+failed: 0
+top NaN rates:
+ unvoiced_seg_mean_s    0.001848
+f0_median_st           0.000000
+f0_mean_st             0.000000
+f0_range_st            0.000000
+f0_p5_st               0.000000
+f0_p95_st              0.000000
+f0_abs_slope_st_s      0.000000
+f0_rise_ratio          0.000000
+541 clips, 11 languages, 59 features (33 interpretable)
+A/B: emotion profiles and cross-language correlation
+  same-emotion mean r = nan vs different-emotion nan (p=nan)
+C: per-feature consistency
+D: variance decomposition
+E: leave-one-language-out classification
+  LOLO[interpretable/logreg] acc=0.569 f1=0.568
+  LOLO[interpretable/svm_rbf] acc=0.604 f1=0.604
+  LOLO[interpretable/rf] acc=0.636 f1=0.634

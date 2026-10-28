@@ -1,0 +1,31 @@
+  50/594
+  100/594
+  150/594
+  200/594
+  250/594
+  300/594
+  350/594
+  400/594
+  450/594
+  500/594
+  550/594
+features: /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/features/features.csv  (594, 70)
+failed: 0
+top NaN rates:
+ unvoiced_seg_mean_s    0.001684
+f0_median_st           0.000000
+f0_mean_st             0.000000
+f0_range_st            0.000000
+f0_p5_st               0.000000
+f0_p95_st              0.000000
+f0_abs_slope_st_s      0.000000
+f0_rise_ratio          0.000000
+594 clips, 11 languages, 59 features (33 interpretable)
+A/B: emotion profiles and cross-language correlation
+  same-emotion mean r = 0.297 vs different-emotion -0.136 (p=6.99e-33)
+C: per-feature consistency
+D: variance decomposition
+E: leave-one-language-out classification
+  LOLO[interpretable/logreg] acc=0.576 f1=0.573
+  LOLO[interpretable/svm_rbf] acc=0.577 f1=0.575
+  LOLO[interpretable/rf] acc=0.623 f1=0.621

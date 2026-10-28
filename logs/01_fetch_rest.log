@@ -1,0 +1,138 @@
+[en] English / RAVDESS (hf_rows)
+  1440 rows, label classes=None
+    offset 1400: sad=0 angry=0 happy=0
+    offset 250: sad=0 angry=0 happy=0
+    offset 1150: sad=30 angry=0 happy=0
+    offset 450: sad=30 angry=0 happy=0
+    offset 350: sad=30 angry=0 happy=0
+    offset 1350: sad=30 angry=0 happy=0
+    offset 0: sad=30 angry=30 happy=0
+    offset 1300: sad=30 angry=30 happy=0
+    offset 400: sad=30 angry=30 happy=0
+    offset 1250: sad=30 angry=30 happy=0
+    offset 1050: sad=30 angry=30 happy=0
+    offset 700: sad=30 angry=30 happy=0
+    offset 650: sad=30 angry=30 happy=0
+    offset 1100: sad=30 angry=30 happy=0
+    offset 750: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  en: sad=30 angry=30 happy=30
+[el] Greek / AESDD (hf_rows)
+  605 rows, label classes=['anger', 'disgust', 'fear', 'happiness', 'sadness']
+    offset 150: sad=0 angry=0 happy=0
+    offset 500: sad=30 angry=0 happy=0
+    offset 600: sad=30 angry=0 happy=0
+    offset 350: sad=30 angry=0 happy=30
+    offset 450: sad=30 angry=0 happy=30
+    offset 200: sad=30 angry=0 happy=30
+    offset 550: sad=30 angry=0 happy=30
+    offset 400: sad=30 angry=0 happy=30
+    offset 50: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    89/90 downloaded
+  el: sad=29 angry=30 happy=30
+[pl] Polish / nEMO (hf_rows)
+  4481 rows, label classes=None
+    offset 1950: sad=13 angry=0 happy=7
+    offset 850: sad=24 angry=2 happy=17
+    offset 1600: sad=30 angry=13 happy=28
+    offset 0: sad=30 angry=16 happy=30
+    offset 4450: sad=30 angry=19 happy=30
+    offset 2250: sad=30 angry=25 happy=30
+    offset 1650: sad=30 angry=27 happy=30
+    offset 1200: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  pl: sad=30 angry=30 happy=30
+[ru] Russian / RESD (hf_rows)
+  1116 rows, label classes=None
+    offset 250: sad=9 angry=8 happy=7
+    offset 900: sad=14 angry=18 happy=15
+    offset 1050: sad=20 angry=26 happy=21
+    api retry 1: HTTPError
+    offset 750: sad=28 angry=30 happy=30
+    offset 350: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  ru: sad=30 angry=30 happy=30
+[fa] Persian / ShEMO (hf_rows)
+  2400 rows, label classes=['A', 'H', 'N', 'S', 'W', 'F']
+    offset 1950: sad=5 angry=23 happy=4
+    offset 1650: sad=14 angry=30 happy=5
+    offset 700: sad=18 angry=30 happy=12
+    offset 750: sad=26 angry=30 happy=15
+    offset 500: sad=30 angry=30 happy=18
+    offset 2300: sad=30 angry=30 happy=22
+    offset 550: sad=30 angry=30 happy=26
+    offset 800: sad=30 angry=30 happy=30
+    downloading 90 files with 24 workers
+    90/90 downloaded
+  fa: sad=30 angry=30 happy=30
+[bn] Bangla / SUBESCO (hf_rows)
+  7000 rows, label classes=None
+    offset 1250: sad=0 angry=0 happy=30
+    offset 4850: sad=30 angry=0 happy=30
+    offset 4450: sad=30 angry=0 happy=30
+    offset 800: sad=30 angry=0 happy=30
+    offset 4250: sad=30 angry=0 happy=30
+    offset 1350: sad=30 angry=0 happy=30
+    offset 6650: sad=30 angry=0 happy=30
+    offset 3200: sad=30 angry=0 happy=30
+    offset 2550: sad=30 angry=0 happy=30
+    offset 6850: sad=30 angry=0 happy=30
+    offset 3000: sad=30 angry=0 happy=30
+    offset 2050: sad=30 angry=0 happy=30
+    offset 4550: sad=30 angry=0 happy=30
+    offset 2250: sad=30 angry=0 happy=30
+    offset 4300: sad=30 angry=0 happy=30
+    offset 1700: sad=30 angry=0 happy=30
+    offset 4400: sad=30 angry=0 happy=30
+    offset 5400: sad=30 angry=0 happy=30
+    offset 50: sad=30 angry=0 happy=30
+    offset 4950: sad=30 angry=0 happy=30
+    offset 1650: sad=30 angry=0 happy=30
+    offset 3800: sad=30 angry=0 happy=30
+    offset 3850: sad=30 angry=0 happy=30
+    offset 2600: sad=30 angry=0 happy=30
+    offset 6600: sad=30 angry=0 happy=30
+    offset 0: sad=30 angry=0 happy=30
+    offset 6150: sad=30 angry=0 happy=30
+    offset 2200: sad=30 angry=0 happy=30
+    offset 4750: sad=30 angry=0 happy=30
+    offset 3250: sad=30 angry=0 happy=30
+    offset 3900: sad=30 angry=0 happy=30
+    offset 5350: sad=30 angry=0 happy=30
+    offset 950: sad=30 angry=0 happy=30
+    offset 150: sad=30 angry=0 happy=30
+    offset 5450: sad=30 angry=0 happy=30
+    offset 6200: sad=30 angry=0 happy=30
+    offset 5200: sad=30 angry=0 happy=30
+    offset 5300: sad=30 angry=0 happy=30
+    offset 2450: sad=30 angry=0 happy=30
+    offset 1450: sad=30 angry=0 happy=30
+    offset 5150: sad=30 angry=0 happy=30
+    offset 5100: sad=30 angry=0 happy=30
+    offset 3100: sad=30 angry=0 happy=30
+    offset 6400: sad=30 angry=0 happy=30
+    offset 2750: sad=30 angry=0 happy=30
+    offset 1000: sad=30 angry=0 happy=30
+    offset 3300: sad=30 angry=0 happy=30
+    offset 1750: sad=30 angry=0 happy=30
+    offset 2800: sad=30 angry=0 happy=30
+    offset 3050: sad=30 angry=0 happy=30
+    offset 2100: sad=30 angry=0 happy=30
+    offset 100: sad=30 angry=0 happy=30
+    offset 3750: sad=30 angry=0 happy=30
+    offset 5000: sad=30 angry=0 happy=30
+    offset 6550: sad=30 angry=0 happy=30
+    offset 1050: sad=30 angry=0 happy=30
+    offset 2400: sad=30 angry=0 happy=30
+    offset 6950: sad=30 angry=0 happy=30
+    offset 4500: sad=30 angry=0 happy=30
+    offset 1600: sad=30 angry=0 happy=30
+    offset 4150: sad=30 angry=0 happy=30
+    offset 200: sad=30 angry=0 happy=30
+    offset 3350: sad=30 angry=0 happy=30
+    offset 1800: sad=30 angry=0 happy=30
+    offset 2850: sad=30 angry=0 happy=30

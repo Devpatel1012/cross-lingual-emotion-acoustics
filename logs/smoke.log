@@ -1,0 +1,74 @@
+[de] German / EmoDB: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 1 speaker ids (0 unusable)
+   angry: kept 18 clips from 1 speaker ids (0 unusable)
+   happy: kept 18 clips from 1 speaker ids (0 unusable)
+[el] Greek / AESDD: sad=29, angry=30, happy=30
+   sad: kept 18 clips from 1 speaker ids (0 unusable)
+   angry: kept 18 clips from 1 speaker ids (0 unusable)
+   happy: kept 18 clips from 1 speaker ids (0 unusable)
+[en] English / RAVDESS: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 18 speaker ids (0 unusable)
+   angry: kept 18 clips from 18 speaker ids (0 unusable)
+   happy: kept 18 clips from 18 speaker ids (0 unusable)
+[pl] Polish / nEMO: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 6 speaker ids (0 unusable)
+   angry: kept 18 clips from 6 speaker ids (0 unusable)
+   happy: kept 18 clips from 8 speaker ids (0 unusable)
+[ru] Russian / RESD: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 10 speaker ids (0 unusable)
+   angry: kept 18 clips from 11 speaker ids (1 unusable)
+   happy: kept 18 clips from 12 speaker ids (2 unusable)
+[zh] Mandarin / CASIA: sad=30, angry=30, happy=30
+   sad: kept 18 clips from 2 speaker ids (0 unusable)
+   angry: kept 18 clips from 2 speaker ids (2 unusable)
+   happy: kept 18 clips from 2 speaker ids (1 unusable)
+
+manifest: /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/features/manifest.csv  (324 clips, 6 languages)
+emotion  angry  happy  sad
+lang                      
+de          18     18   18
+el          18     18   18
+en          18     18   18
+pl          18     18   18
+ru          18     18   18
+zh          18     18   18
+
+total audio: 16.9 min, median clip 2.25 s
+  50/324
+  100/324
+  150/324
+  200/324
+  250/324
+  300/324
+features: /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/features/features.csv  (324, 70)
+failed: 0
+top NaN rates:
+ f0_mean_st           0.0
+f0_median_st         0.0
+f0_std_st            0.0
+f0_range_st          0.0
+f0_p5_st             0.0
+f0_p95_st            0.0
+f0_abs_slope_st_s    0.0
+f0_rise_ratio        0.0
+324 clips, 6 languages, 59 features (33 interpretable)
+A/B: emotion profiles and cross-language correlation
+  same-emotion mean r = 0.256 vs different-emotion -0.113 (p=6.92e-08)
+C: per-feature consistency
+D: variance decomposition
+E: leave-one-language-out classification
+Traceback (most recent call last):
+  File "/home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/scripts/04_analyze.py", line 397, in <module>
+    main()
+    ~~~~^^
+  File "/home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/scripts/04_analyze.py", line 346, in main
+    E_i = analysis_E(z, inter, "interpretable")
+  File "/home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/scripts/04_analyze.py", line 217, in analysis_E
+    for name, mdl in models().items():
+                     ~~~~~~^^
+  File "/home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/scripts/04_analyze.py", line 203, in models
+    "logreg": make_pipeline(StandardScaler(), LogisticRegression(
+                                              ~~~~~~~~~~~~~~~~~~^
+        C=0.3, max_iter=4000, multi_class="multinomial")),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: LogisticRegression.__init__() got an unexpected keyword argument 'multi_class'

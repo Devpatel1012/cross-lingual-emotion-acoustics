@@ -1,0 +1,25 @@
+324 clips, 6 languages, 59 features (33 interpretable)
+A/B: emotion profiles and cross-language correlation
+  same-emotion mean r = 0.256 vs different-emotion -0.113 (p=6.92e-08)
+C: per-feature consistency
+D: variance decomposition
+E: leave-one-language-out classification
+  LOLO[interpretable/logreg] acc=0.500 f1=0.500
+  LOLO[interpretable/svm_rbf] acc=0.559 f1=0.560
+  LOLO[interpretable/rf] acc=0.574 f1=0.572
+  LOLO[all_incl_mfcc/logreg] acc=0.500 f1=0.500
+  LOLO[all_incl_mfcc/svm_rbf] acc=0.562 f1=0.565
+  LOLO[all_incl_mfcc/rf] acc=0.593 f1=0.591
+  LOLO[gain_invariant/logreg] acc=0.525 f1=0.522
+  LOLO[gain_invariant/svm_rbf] acc=0.556 f1=0.555
+  LOLO[gain_invariant/rf] acc=0.574 f1=0.569
+F/G: geometry and confound checks
+
+wrote /home/dev/Desktop/audriaInternship/Audria/titanet+NSE speech diarization python implementation/cross_lingual_emotion_experiment/results/summary.json
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+qt.qpa.xcb: could not connect to display 
+qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
+This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: eglfs, minimal, minimalegl, offscreen, vnc, webgl, xcb.
+
